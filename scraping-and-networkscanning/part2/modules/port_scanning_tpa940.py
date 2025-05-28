@@ -6,8 +6,8 @@ import nmap
 
 def print_header():
     print("----------------------------------------------------")
-    print("Assignment 4 Part 2: Port scanning with nmap\n")
-    print("Teresa Pan  (300370940)")
+    print("Port scanning with nmap\n")
+    print("Author: [Your Name]")
     print("----------------------------------------------------")
 
 
