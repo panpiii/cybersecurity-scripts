@@ -1,0 +1,29 @@
+[
+    {
+        "Course Name": "Fundamentals Of Machine Learning In Data Science",
+        "Course": "3290",
+        "Section": "002",
+        "Date": "Wed, Dec 11, 2024",
+        "Time": "12:00 - 15:00",
+        "Bldg": "NWN",
+        "Room": "N6107"
+    },
+    {
+        "Course Name": "Fundamentals Of Machine Learning In Data Science",
+        "Course": "3290",
+        "Section": "004",
+        "Date": "Wed, Dec 11, 2024",
+        "Time": "15:30 - 18:30",
+        "Bldg": "NWN",
+        "Room": "N6107"
+    },
+    {
+        "Course Name": "Scripting For Cybersecurity",
+        "Course": "3560",
+        "Section": "001",
+        "Date": "Thu, Dec 12, 2024",
+        "Time": "8:30 - 11:30",
+        "Bldg": "NWN",
+        "Room": "N6111"
+    }
+]
