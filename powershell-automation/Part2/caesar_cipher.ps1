@@ -1,8 +1,6 @@
 function Show-HeaderTPa940 {
 	Write-Output "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
-	Write-Output "  CSIS 3560 Assignment 5 Part 2"
-	Write-Output "  Name: Teresa Pan"
-	Write-Output "  ID:    300370940"
+	Write-Output " Author: [Your Name]"
 	Write-Output "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
 }
 
