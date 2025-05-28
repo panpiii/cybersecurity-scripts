@@ -1,6 +1,8 @@
-## 🔍 Project Overviews
+## 🔍 CyberSecurity Scripting Project Overviews
+![No License](https://img.shields.io/badge/license-unlicensed-lightgrey)
 
 ### 📂 `dataanalysis-and-sshsecurity`
+
 
 #### Part 1: Data Analytics with Bash
 - Analyzed a CSV file (`cyber.csv`) containing cybersecurity indexes.
